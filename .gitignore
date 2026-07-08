@@ -1,1 +1,24 @@
+# Segredos
+.env
+
+# Gradle
+.gradle/
+build/
+.kotlin/
+local.properties
+
+# IDEs
 .idea/
+*.iml
+.vscode/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Artefatos Android
+*.apk
+*.aab
+
+# Sistema
+.DS_Store
+Thumbs.db
