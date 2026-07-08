@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* WIFI_SSID  = "VIRUS";
-const char* WIFI_SENHA = "goticula";
+const char* WIFI_SSID  = "SEU_SSID";
+const char* WIFI_SENHA = "SUA_SENHA";
 const char* BACKEND    = "https://unwaned-pseudoameboid-latrisha.ngrok-free.dev";
 
 WiFiClientSecure clienteSeguro;
