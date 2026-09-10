@@ -5,7 +5,7 @@ App Android em Kotlin + Jetpack Compose.
 ## Telas
 
 - **Leituras**: gráfico de luminosidade + lista do histórico (busca `GET /leituras` no gateway, atualiza a cada 5 s).
-- **Configuração**: endereço do backend + parâmetros do embarcado (limiar de sombra, tempo de acionamento, alarme on/off), enviados com `PUT /config`.
+- **Configuração**: endereço do backend + parâmetros do embarcado (tempo de acionamento, alarme on/off), enviados com `PUT /config`.
 
 ## Execução
 
